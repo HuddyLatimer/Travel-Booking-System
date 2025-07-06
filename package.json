@@ -1,0 +1,19 @@
+{
+  "name": "travel-booking-system",
+  "version": "1.0.0",
+  "description": "Advanced offline-first travel booking system built with Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "echo 'No build step yet'"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^28.2.3"
+  },
+  "dependencies": {
+    "chart.js": "^4.4.0",
+    "date-fns": "^2.30.0"
+  }
+} 
